@@ -1,5 +1,5 @@
 <h1> Hello and Welcome ! 🥳 </h1>
-<p> You are right now! looking at my profile 👏 about my journey to become a successful programmer 👨‍💻 in web development.</p>
+<p> You are right now! looking at my profile 👏 about my journey to become a successful programmer 👨‍💻 in web development or testing.</p>
   I'm grateful 🙌 that you took the time to take a look at my projects ⬇.
 
   <!---
